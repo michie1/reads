@@ -1,6 +1,0 @@
-The introduction to Reactive Programming you've been missing https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
-How do you know a developer is doing a good job? https://dev.to/pbeekums/how-do-you-know-a-developer-is-doing-a-good-job
-Using git bisect https://dev.to/gonedark/using-git-bisect
-Office design by an office hater https://blog.coderbyheart.com/office-design-by-an-office-hater
-It's Done! Great! What does that mean? http://jlhood.com/its-done-great-what-does-that-mean/
-Hard-won lessons: Five years with Node.js https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js/#new-relic-doesnt-get-it
