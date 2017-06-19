@@ -12,3 +12,4 @@ Articles that are in my opinion worth sharing.
 - [Web is ready for you on line Elm](https://medium.com/@birowsky/web-is-ready-for-you-on-line-elm-d3aa14dbf95)
 - [Adopting Flow and Typescript](https://medium.com/the-thinkmill/adopting-flow-typescript-3549a3a36d51)
 - [Git - Command line vs GUIs](https://dev.to/gonedark/git---command-line-vs-guis)
+- [Developer-driven development](https://dev.to/isaacandsuch/developer-driven-development)
