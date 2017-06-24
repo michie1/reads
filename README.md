@@ -1,5 +1,5 @@
 # Reads
-Articles that are in my opinion worth sharing.
+Articles, sites, tools and videos that are in my opinion worth sharing.
 
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [How do you know a developer is doing a good job?](https://dev.to/pbeekums/how-do-you-know-a-developer-is-doing-a-good-job)
@@ -14,3 +14,4 @@ Articles that are in my opinion worth sharing.
 - [Git - Command line vs GUIs](https://dev.to/gonedark/git---command-line-vs-guis)
 - [Developer-driven development](https://dev.to/isaacandsuch/developer-driven-development)
 - [Easy and fast file sharing from the command line](https://transfer.sh/)
+- [Ethereum Vs. Bitcoin: What Sets Them Apart?](https://www.youtube.com/watch?v=0UBk1e5qnr4)
