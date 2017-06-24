@@ -13,3 +13,4 @@ Articles that are in my opinion worth sharing.
 - [Adopting Flow and Typescript](https://medium.com/the-thinkmill/adopting-flow-typescript-3549a3a36d51)
 - [Git - Command line vs GUIs](https://dev.to/gonedark/git---command-line-vs-guis)
 - [Developer-driven development](https://dev.to/isaacandsuch/developer-driven-development)
+- [Easy and fast file sharing from the command line](https://transfer.sh/)
