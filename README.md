@@ -16,3 +16,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Easy and fast file sharing from the command line](https://transfer.sh/)
 - [Ethereum Vs. Bitcoin: What Sets Them Apart?](https://www.youtube.com/watch?v=0UBk1e5qnr4)
 - [SSH Tunnel - Local and Remote Port Forwarding explained with examples](http://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html)
+- [Building and Testing Web Applications with Elm](https://semaphoreci.com/community/tutorials/building-and-testing-web-applications-with-elm)
