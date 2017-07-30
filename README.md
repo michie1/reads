@@ -17,3 +17,5 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Ethereum Vs. Bitcoin: What Sets Them Apart?](https://www.youtube.com/watch?v=0UBk1e5qnr4)
 - [SSH Tunnel - Local and Remote Port Forwarding explained with examples](http://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html)
 - [Building and Testing Web Applications with Elm](https://semaphoreci.com/community/tutorials/building-and-testing-web-applications-with-elm)
+- [Brief(ish) explanation of how https works](https://dev.to/ruidfigueiredo/briefish-explanation-of-how-https-works)
+- [The Daily stand-up is an antipattarn](http://kristopherwilson.com/2015/03/09/the-daily-stand-up-is-an-antipattern)
