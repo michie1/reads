@@ -19,3 +19,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Building and Testing Web Applications with Elm](https://semaphoreci.com/community/tutorials/building-and-testing-web-applications-with-elm)
 - [Brief(ish) explanation of how https works](https://dev.to/ruidfigueiredo/briefish-explanation-of-how-https-works)
 - [The Daily stand-up is an antipattarn](http://kristopherwilson.com/2015/03/09/the-daily-stand-up-is-an-antipattern)
+- [Thinking of the next developer](https://dev.to/dnimmo/thinking-of-the-next-developer)
