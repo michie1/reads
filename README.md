@@ -20,3 +20,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Brief(ish) explanation of how https works](https://dev.to/ruidfigueiredo/briefish-explanation-of-how-https-works)
 - [The Daily stand-up is an antipattarn](http://kristopherwilson.com/2015/03/09/the-daily-stand-up-is-an-antipattern)
 - [Thinking of the next developer](https://dev.to/dnimmo/thinking-of-the-next-developer)
+- [This is why you shouldn't interrupt a programmer](http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer)
