@@ -22,3 +22,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Thinking of the next developer](https://dev.to/dnimmo/thinking-of-the-next-developer)
 - [This is why you shouldn't interrupt a programmer](http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer)
 - [Don't be celever](https://www.simplethread.com/dont-be-clever)
+- [Link anatomy](http://bl.ocks.org/abernier/3070589)
