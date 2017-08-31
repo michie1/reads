@@ -24,3 +24,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Don't be clever](https://www.simplethread.com/dont-be-clever)
 - [Link anatomy](http://bl.ocks.org/abernier/3070589)
 - [ES Modules in Node Today!](https://blogs.windows.com/msedgedev/2017/08/10/es-modules-node-today/)
+- [The Twelve-Factor app](https://12factor.net)
