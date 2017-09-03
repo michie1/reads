@@ -25,3 +25,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Link anatomy](http://bl.ocks.org/abernier/3070589)
 - [ES Modules in Node Today!](https://blogs.windows.com/msedgedev/2017/08/10/es-modules-node-today/)
 - [The Twelve-Factor app](https://12factor.net)
+- [Building a Maybe in Javascript](http://developingthoughts.co.uk/building-a-maybe-in-javascript/)
