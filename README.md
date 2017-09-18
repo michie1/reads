@@ -28,3 +28,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Building a Maybe in Javascript](http://developingthoughts.co.uk/building-a-maybe-in-javascript/)
 - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface)
 - [Beating the Averages](http://www.paulgraham.com/avg.html)
+- [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified)
