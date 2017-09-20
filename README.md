@@ -29,3 +29,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface)
 - [Beating the Averages](http://www.paulgraham.com/avg.html)
 - [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified)
+- [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
