@@ -32,3 +32,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
 - [Why you should work remotely](https://dev.to/gshotwell/why-you-should-work-remotely)
 - [Object Oriented Programming is an expensive disaster which must end](www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end)
+- [Try to Code Without If-statements](https://medium.com/@samerbuna/coding-tip-try-to-code-without-if-statements-d06799eed231)
