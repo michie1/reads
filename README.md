@@ -34,3 +34,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Object Oriented Programming is an expensive disaster which must end](www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end)
 - [Try to Code Without If-statements](https://medium.com/@samerbuna/coding-tip-try-to-code-without-if-statements-d06799eed231)
 - [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+- [The Export](https://www.youtube.com/watch?v=BKorP55Aqvg)
