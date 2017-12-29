@@ -35,3 +35,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Try to Code Without If-statements](https://medium.com/@samerbuna/coding-tip-try-to-code-without-if-statements-d06799eed231)
 - [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 - [The Export](https://www.youtube.com/watch?v=BKorP55Aqvg)
+- [Trying to understand blockchain by making one!](https://dev.to/damcosset/trying-to-understand-blockchain-by-making-one-ce4)
