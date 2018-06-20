@@ -37,3 +37,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [The Export](https://www.youtube.com/watch?v=BKorP55Aqvg)
 - [Trying to understand blockchain by making one!](https://dev.to/damcosset/trying-to-understand-blockchain-by-making-one-ce4)
 - [Javascript: call(), apply() and bind()](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
+- [Mastering Types in JavaScript](https://itnext.io/mastering-types-in-javascript-66c43338a274)
