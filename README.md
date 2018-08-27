@@ -41,3 +41,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
 - [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
 - [The Rise and Rise of JSON](https://twobithistory.org/2017/09/21/the-rise-and-rise-of-json.html)
+- [Stop future proofing software](https://medium.com/@george3d6/stop-future-proofing-software-c984cbd65e78)
