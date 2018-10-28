@@ -43,3 +43,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [The Rise and Rise of JSON](https://twobithistory.org/2017/09/21/the-rise-and-rise-of-json.html)
 - [Stop future proofing software](https://medium.com/@george3d6/stop-future-proofing-software-c984cbd65e78)
 - [A Beginner's Guide to JavaScript's Prototype](https://tylermcginnis.com/beginners-guide-to-javascript-prototype)
+- [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
