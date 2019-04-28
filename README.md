@@ -46,3 +46,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 - [Stop trying to be so DRY, instead of Write Everything Twice (WET)](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33)
 - [Over The Wire: wargames](http://overthewire.org/)
+- [The Great Divide](https://css-tricks.com/the-great-divide/)
