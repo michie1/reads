@@ -47,3 +47,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Stop trying to be so DRY, instead of Write Everything Twice (WET)](https://dev.to/wuz/stop-trying-to-be-so-dry-instead-write-everything-twice-wet-5g33)
 - [Over The Wire: wargames](http://overthewire.org/)
 - [The Great Divide](https://css-tricks.com/the-great-divide/)
+- [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect)
