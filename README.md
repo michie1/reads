@@ -48,3 +48,4 @@ Articles, sites, tools and videos that are in my opinion worth sharing.
 - [Over The Wire: wargames](http://overthewire.org/)
 - [The Great Divide](https://css-tricks.com/the-great-divide/)
 - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect)
+- [The economics of open source](https://www.youtube.com/watch?v=MO8hZlgK5zc)
